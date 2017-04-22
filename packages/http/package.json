@@ -1,0 +1,14 @@
+{
+  "name": "@cycle/mega-http",
+  "version": "0.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+      "build": "tsc -d"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/http": "^13.2.0"
+  }
+}

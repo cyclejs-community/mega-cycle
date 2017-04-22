@@ -1,0 +1,16 @@
+{
+  "name": "mega-cycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "publish": "lerna publish"
+  },
+  "author": "Jan van Brügge",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^2.0.0-rc.3",
+    "typescript": "^2.2.2",
+    "xstream": "^10.5.0"
+  }
+}

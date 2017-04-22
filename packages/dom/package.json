@@ -1,0 +1,16 @@
+{
+  "name": "@cycle/mega-dom",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -d"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@cycle/dom": "^17.1.0"
+  },
+  "devDependencies": {
+  }
+}
