@@ -6,6 +6,9 @@
   "scripts": {
     "build": "tsc -d"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
