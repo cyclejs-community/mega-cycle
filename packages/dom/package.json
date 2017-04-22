@@ -1,6 +1,6 @@
 {
   "name": "@cycle/mega-dom",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -11,6 +11,5 @@
   "dependencies": {
     "@cycle/dom": "^17.1.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
