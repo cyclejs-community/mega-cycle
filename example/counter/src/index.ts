@@ -1,5 +1,3 @@
-import 'babel-polyfill'; //This will be replaced based on your babel-env config
-
 import { megaRun } from '@mega-cycle/run';
 import { makeMegaDOMDriver } from '@mega-cycle/dom';
 import { makeMegaHTTPDriver } from '@mega-cycle/http';
