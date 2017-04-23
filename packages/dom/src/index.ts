@@ -3,7 +3,7 @@ import { Stream } from 'xstream';
 
 export * from '@cycle/dom';
 
-export const DOM = 'DOM';
+export const DOM = '@mega-cycle/dom';
 
 export interface DOMSink {
     type : typeof DOM;

@@ -1,7 +1,7 @@
 import { makeHTTPDriver, RequestOptions, HTTPSource } from '@cycle/http';
 import { Stream } from 'xstream';
 
-export const HTTP = 'HTTP';
+export const HTTP = '@mega-cycle/http';
 
 export interface HTTPSink {
     type : typeof HTTP;
