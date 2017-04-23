@@ -2,7 +2,7 @@
   "name": "@mega-cycle/dom",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
+  "main": "build/index.js",
   "scripts": {
     "build": "tsc -d"
   },
